@@ -1,0 +1,3 @@
+C:/Users/王家桢/Desktop/lab/GA/1/N=100/mutation_probability=0.01/crossover_probability=0.1
+C:/Users/王家桢/Desktop/lab/GA/1/N=100/mutation_probability=0.01/crossover_probability=0.2
+C:/Users/王家桢/Desktop/lab/GA/1/N=100/mutation_probability=0.01/crossover_probability=0.3
